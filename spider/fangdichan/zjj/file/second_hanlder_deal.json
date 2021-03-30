@@ -1,0 +1,125 @@
+{
+  "二月": {
+    "status": 1,
+    "msg": "成功",
+    "data": {
+      "result": "success",
+      "xmlDateMonth": "2021年02月",
+      "dataMj": [
+        {
+          "name": "南山",
+          "value": 62802.72
+        },
+        {
+          "name": "福田",
+          "value": 65509.88
+        },
+        {
+          "name": "龙岗",
+          "value": 112449.16
+        },
+        {
+          "name": "宝安",
+          "value": 72791.28
+        },
+        {
+          "name": "罗湖",
+          "value": 53086.65
+        },
+        {
+          "name": "盐田",
+          "value": 7921.22
+        }
+      ],
+      "dataTs": [
+        {
+          "name": "南山",
+          "value": 653
+        },
+        {
+          "name": "福田",
+          "value": 785
+        },
+        {
+          "name": "龙岗",
+          "value": 1347
+        },
+        {
+          "name": "宝安",
+          "value": 851
+        },
+        {
+          "name": "罗湖",
+          "value": 789
+        },
+        {
+          "name": "盐田",
+          "value": 99
+        }
+      ],
+      "xmlDateDay": ""
+    }
+  },
+  "三月": {
+    "status": 1,
+    "msg": "成功",
+    "data": {
+      "result": "success",
+      "xmlDateMonth": "2021年03月",
+      "dataMj": [
+        {
+          "name": "南山",
+          "value": 4381.7
+        },
+        {
+          "name": "福田",
+          "value": 6118.44
+        },
+        {
+          "name": "龙岗",
+          "value": 7291.21
+        },
+        {
+          "name": "宝安",
+          "value": 5069.55
+        },
+        {
+          "name": "罗湖",
+          "value": 3535.07
+        },
+        {
+          "name": "盐田",
+          "value": 926.03
+        }
+      ],
+      "dataTs": [
+        {
+          "name": "南山",
+          "value": 47
+        },
+        {
+          "name": "福田",
+          "value": 65
+        },
+        {
+          "name": "龙岗",
+          "value": 89
+        },
+        {
+          "name": "宝安",
+          "value": 57
+        },
+        {
+          "name": "罗湖",
+          "value": 47
+        },
+        {
+          "name": "盐田",
+          "value": 9
+        }
+      ],
+      "xmlDateDay": "2021年03月29日"
+    }
+  }
+}
+
